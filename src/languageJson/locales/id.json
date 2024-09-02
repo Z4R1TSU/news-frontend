@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "Direkomendasikan",
+    "national": "Nasional",
+    "politics": "Politik",
+    "economy": "Ekonomi",
+    "sports": "Olahraga",
+    "world": "Dunia",
+    "entertainment": "Hiburan",
+    "technology": "Teknologi",
+    "culture": "Budaya",
+    "life": "Hidup",
+    "environment": "Lingkungan"
+  },
+  "WebsitesType": {
+    "portal": "Portal",
+    "news": "Berita",
+    "social": "Sosial",
+    "design": "Desain",
+    "shopping": "Belanja",
+    "celebrity": "Selebriti",
+    "music": "Musik",
+    "image": "Gambar",
+    "sports": "Olahraga",
+    "anime": "Anime",
+    "game": "Permainan",
+    "travel": "Perjalanan",
+    "automobile": "Otomotif",
+    "it": "TI",
+    "magazine": "Majalah",
+    "forum": "Forum",
+    "blog": "Blog",
+    "search": "Pencarian",
+    "query": "Kueri",
+    "fashion": "Mode",
+    "food": "Makanan"
+  }
+}

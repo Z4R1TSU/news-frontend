@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "Aanbevolen",
+    "national": "Nationaal",
+    "politics": "Politiek",
+    "economy": "Economie",
+    "sports": "Sport",
+    "world": "Wereld",
+    "entertainment": "Vermaak",
+    "technology": "Technologie",
+    "culture": "Cultuur",
+    "life": "Leven",
+    "environment": "Milieu"
+  },
+  "WebsitesType": {
+    "portal": "Portaal",
+    "news": "Nieuws",
+    "social": "Sociaal",
+    "design": "Ontwerp",
+    "shopping": "Winkelen",
+    "celebrity": "Bekendheid",
+    "music": "Muziek",
+    "image": "Afbeelding",
+    "sports": "Sport",
+    "anime": "Anime",
+    "game": "Spel",
+    "travel": "Reizen",
+    "automobile": "Automobiel",
+    "it": "IT",
+    "magazine": "Tijdschrift",
+    "forum": "Forum",
+    "blog": "Blog",
+    "search": "Zoeken",
+    "query": "Query",
+    "fashion": "Mode",
+    "food": "Voedsel"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "Đề xuất",
+    "national": "Quốc gia",
+    "politics": "Chính trị",
+    "economy": "Kinh tế",
+    "sports": "Thể thao",
+    "world": "Thế giới",
+    "entertainment": "Giải trí",
+    "technology": "Công nghệ",
+    "culture": "Văn hóa",
+    "life": "Cuộc sống",
+    "environment": "Môi trường"
+  },
+  "WebsitesType": {
+    "portal": "Cổng thông tin",
+    "news": "Tin tức",
+    "social": "Xã hội",
+    "design": "Thiết kế",
+    "shopping": "Mua sắm",
+    "celebrity": "Ngôi sao",
+    "music": "Âm nhạc",
+    "image": "Hình ảnh",
+    "sports": "Thể thao",
+    "anime": "Hoạt hình",
+    "game": "Trò chơi",
+    "travel": "Du lịch",
+    "automobile": "Ô tô",
+    "it": "Công nghệ thông tin",
+    "magazine": "Tạp chí",
+    "forum": "Diễn đàn",
+    "blog": "Blog",
+    "search": "Tìm kiếm",
+    "query": "Truy vấn",
+    "fashion": "Thời trang",
+    "food": "Thức ăn"
+  }
+}

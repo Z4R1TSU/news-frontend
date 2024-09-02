@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "Рекомендуется",
+    "national": "Национальный",
+    "politics": "Политика",
+    "economy": "Экономика",
+    "sports": "Спорт",
+    "world": "Мир",
+    "entertainment": "Развлечения",
+    "technology": "Технологии",
+    "culture": "Культура",
+    "life": "Жизнь",
+    "environment": "Окружающая среда"
+  },
+  "WebsitesType": {
+    "portal": "Портал",
+    "news": "Новости",
+    "social": "Социальный",
+    "design": "Дизайн",
+    "shopping": "Шоппинг",
+    "celebrity": "Знаменитости",
+    "music": "Музыка",
+    "image": "Изображение",
+    "sports": "Спорт",
+    "anime": "Аниме",
+    "game": "Игра",
+    "travel": "Путешествия",
+    "automobile": "Автомобиль",
+    "it": "ИТ",
+    "magazine": "Журнал",
+    "forum": "Форум",
+    "blog": "Блог",
+    "search": "Поиск",
+    "query": "Запрос",
+    "fashion": "Мода",
+    "food": "Еда"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "แนะนำ",
+    "national": "ชาติ",
+    "politics": "การเมือง",
+    "economy": "เศรษฐกิจ",
+    "sports": "กีฬา",
+    "world": "โลก",
+    "entertainment": "ความบันเทิง",
+    "technology": "เทคโนโลยี",
+    "culture": "วัฒนธรรม",
+    "life": "ชีวิต",
+    "environment": "สิ่งแวดล้อม"
+  },
+  "WebsitesType": {
+    "portal": "พอร์ทัล",
+    "news": "ข่าว",
+    "social": "โซเชียล",
+    "design": "ดีไซน์",
+    "shopping": "ช็อปปิ้ง",
+    "celebrity": "เซเลบริตี้",
+    "music": "ดนตรี",
+    "image": "ภาพ",
+    "sports": "กีฬา",
+    "anime": "อนิเมะ",
+    "game": "เกม",
+    "travel": "การเดินทาง",
+    "automobile": "รถยนต์",
+    "it": "ไอที",
+    "magazine": "นิตยสาร",
+    "forum": "ฟอรัม",
+    "blog": "บล็อก",
+    "search": "ค้นหา",
+    "query": "คิวรี",
+    "fashion": "แฟชั่น",
+    "food": "อาหาร"
+  }
+}

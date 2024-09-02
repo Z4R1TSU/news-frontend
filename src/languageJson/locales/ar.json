@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "موصى به",
+    "national": "وطني",
+    "politics": "سياسة",
+    "economy": "اقتصاد",
+    "sports": "رياضة",
+    "world": "عالمي",
+    "entertainment": "ترفيه",
+    "technology": "تكنولوجيا",
+    "culture": "ثقافة",
+    "life": "حياة",
+    "environment": "بيئة"
+  },
+  "WebsitesType": {
+    "portal": "بوابة",
+    "news": "أخبار",
+    "social": "اجتماعي",
+    "design": "تصميم",
+    "shopping": "تسوق",
+    "celebrity": "مشاهير",
+    "music": "موسيقى",
+    "image": "صورة",
+    "sports": "رياضة",
+    "anime": "أنمي",
+    "game": "لعبة",
+    "travel": "سفر",
+    "automobile": "سيارات",
+    "it": "تكنولوجيا المعلومات",
+    "magazine": "مجلة",
+    "forum": "منتدى",
+    "blog": "مدونة",
+    "search": "بحث",
+    "query": "استعلام",
+    "fashion": "موضة",
+    "food": "طعام"
+  }
+}

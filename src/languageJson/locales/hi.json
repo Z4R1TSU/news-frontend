@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "सिफारिश की गई",
+    "national": "राष्ट्रीय",
+    "politics": "राजनीति",
+    "economy": "अर्थशास्त्र",
+    "sports": "खेल",
+    "world": "दुनिया",
+    "entertainment": "मनोरंजन",
+    "technology": "प्रौद्योगिकी",
+    "culture": "संस्कृति",
+    "life": "जीवन",
+    "environment": "पर्यावरण"
+  },
+  "WebsitesType": {
+    "portal": "पोर्टल",
+    "news": "समाचार",
+    "social": "सामाजिक",
+    "design": "डिज़ाइन",
+    "shopping": "खरीदारी",
+    "celebrity": "सेलेब्रिटी",
+    "music": "संगीत",
+    "image": "छवि",
+    "sports": "खेल",
+    "anime": "एनीमे",
+    "game": "खेल",
+    "travel": "यात्रा",
+    "automobile": "ऑटोमोबाइल",
+    "it": "आईटी",
+    "magazine": "मैगज़ीन",
+    "forum": "फोरम",
+    "blog": "ब्लॉग",
+    "search": "खोज",
+    "query": "संदर्भ",
+    "fashion": "फैशन",
+    "food": "खाना"
+  }
+}

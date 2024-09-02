@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "推荐",
+    "national": "国家",
+    "politics": "政治",
+    "economy": "经济",
+    "sports": "运动",
+    "world": "国际",
+    "entertainment": "娱乐",
+    "technology": "科技",
+    "culture": "文化",
+    "life": "生活",
+    "environment": "环境"
+  },
+  "WebsitesType": {
+    "portal": "门户",
+  "news": "新闻",
+  "social": "社交",
+  "design": "设计",
+  "shopping": "购物",
+  "celebrity": "明星",
+  "music": "音乐",
+  "image": "图片",
+  "sports": "体育",
+  "anime": "动漫",
+  "game": "游戏",
+  "travel": "旅游",
+  "automobile": "汽车",
+  "it": "IT",
+  "magazine": "杂志",
+  "forum": "论坛",
+  "blog": "博客",
+  "search": "搜索",
+  "query": "查询",
+  "fashion": "时尚",
+  "food": "美食"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "Tavsiye Edilen",
+    "national": "Ulusal",
+    "politics": "Siyaset",
+    "economy": "Ekonomi",
+    "sports": "Spor",
+    "world": "Dünya",
+    "entertainment": "Eğlence",
+    "technology": "Teknoloji",
+    "culture": "Kültür",
+    "life": "Hayat",
+    "environment": "Çevre"
+  },
+  "WebsitesType": {
+    "portal": "Portal",
+    "news": "Haberler",
+    "social": "Sosyal",
+    "design": "Tasarım",
+    "shopping": "Alışveriş",
+    "celebrity": "Ünlü",
+    "music": "Müzik",
+    "image": "Görüntü",
+    "sports": "Spor",
+    "anime": "Anime",
+    "game": "Oyun",
+    "travel": "Seyahat",
+    "automobile": "Otomobil",
+    "it": "BT",
+    "magazine": "Dergi",
+    "forum": "Forum",
+    "blog": "Blog",
+    "search": "Arama",
+    "query": "Sorgu",
+    "fashion": "Moda",
+    "food": "Yiyecek"
+  }
+}

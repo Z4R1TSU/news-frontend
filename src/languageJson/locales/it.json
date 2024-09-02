@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "Consigliato",
+    "national": "Nazionale",
+    "politics": "Politica",
+    "economy": "Economia",
+    "sports": "Sport",
+    "world": "Mondo",
+    "entertainment": "Intrattenimento",
+    "technology": "Tecnologia",
+    "culture": "Cultura",
+    "life": "Vita",
+    "environment": "Ambiente"
+  },
+  "WebsitesType": {
+    "portal": "Portale",
+    "news": "Notizie",
+    "social": "Sociale",
+    "design": "Design",
+    "shopping": "Shopping",
+    "celebrity": "Celebrità",
+    "music": "Musica",
+    "image": "Immagine",
+    "sports": "Sport",
+    "anime": "Anime",
+    "game": "Gioco",
+    "travel": "Viaggio",
+    "automobile": "Automobile",
+    "it": "IT",
+    "magazine": "Rivista",
+    "forum": "Forum",
+    "blog": "Blog",
+    "search": "Ricerca",
+    "query": "Richiesta",
+    "fashion": "Moda",
+    "food": "Cibo"
+  }
+}

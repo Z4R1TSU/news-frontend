@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "推薦",
+    "national": "國家",
+    "politics": "政治",
+    "economy": "經濟",
+    "sports": "運動",
+    "world": "國際",
+    "entertainment": "娛樂",
+    "technology": "科技",
+    "culture": "文化",
+    "life": "生活",
+    "environment": "環境"
+  },
+  "WebsitesType": {
+    "portal": "門戶",
+    "news": "新聞",
+    "social": "社交",
+    "design": "設計",
+    "shopping": "購物",
+    "celebrity": "明星",
+    "music": "音樂",
+    "image": "圖片",
+    "sports": "體育",
+    "anime": "動漫",
+    "game": "遊戲",
+    "travel": "旅遊",
+    "automobile": "汽車",
+    "it": "IT",
+    "magazine": "雜誌",
+    "forum": "論壇",
+    "blog": "部落格",
+    "search": "搜尋",
+    "query": "查詢",
+    "fashion": "時尚",
+    "food": "美食"
+  }
+}

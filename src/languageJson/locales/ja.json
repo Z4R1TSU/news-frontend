@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "おすすめ",
+    "national": "国内",
+    "politics": "政治",
+    "economy": "経済",
+    "sports": "スポーツ",
+    "world": "世界",
+    "entertainment": "エンタメ",
+    "technology": "技術",
+    "culture": "文化",
+    "life": "生活",
+    "environment": "環境"
+  },
+  "WebsitesType": {
+    "portal": "ポータル",
+    "news": "ニュース",
+    "social": "ソーシャル",
+    "design": "デザイン",
+    "shopping": "ショッピング",
+    "celebrity": "セレブ",
+    "music": "音楽",
+    "image": "画像",
+    "sports": "スポーツ",
+    "anime": "アニメ",
+    "game": "ゲーム",
+    "travel": "旅行",
+    "automobile": "自動車",
+    "it": "IT",
+    "magazine": "雑誌",
+    "forum": "フォーラム",
+    "blog": "ブログ",
+    "search": "検索",
+    "query": "クエリ",
+    "fashion": "ファッション",
+    "food": "食べ物"
+  }
+}

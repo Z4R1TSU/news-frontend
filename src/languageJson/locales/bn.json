@@ -1,0 +1,38 @@
+{
+  "NewType": {
+    "recommended": "প্রস্তাবিত",
+    "national": "জাতীয়",
+    "politics": "রাজনীতি",
+    "economy": "অর্থনীতি",
+    "sports": "খেলা",
+    "world": "বিশ্ব",
+    "entertainment": "বিনোদন",
+    "technology": "প্রযুক্তি",
+    "culture": "সংস্কৃতি",
+    "life": "জীবন",
+    "environment": "পরিবেশ"
+  },
+  "WebsitesType": {
+    "portal": "পোর্টাল",
+    "news": "খবর",
+    "social": "সামাজিক",
+    "design": "ডিজাইন",
+    "shopping": "শপিং",
+    "celebrity": "সেলিব্রিটি",
+    "music": "সঙ্গীত",
+    "image": "চিত্র",
+    "sports": "খেলা",
+    "anime": "অ্যানিমে",
+    "game": "গেম",
+    "travel": "ভ্রমণ",
+    "automobile": "গাড়ি",
+    "it": "আইটি",
+    "magazine": "ম্যাগাজিন",
+    "forum": "ফোরাম",
+    "blog": "ব্লগ",
+    "search": "অনুসন্ধান",
+    "query": "অনুসন্ধান",
+    "fashion": "ফ্যাশন",
+    "food": "খাবার"
+  }
+}
